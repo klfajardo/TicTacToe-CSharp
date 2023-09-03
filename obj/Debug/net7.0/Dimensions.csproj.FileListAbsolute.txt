@@ -1,0 +1,15 @@
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/bin/Debug/net7.0/Dimensions
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/bin/Debug/net7.0/Dimensions.deps.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/bin/Debug/net7.0/Dimensions.runtimeconfig.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/bin/Debug/net7.0/Dimensions.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/bin/Debug/net7.0/Dimensions.pdb
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.csproj.AssemblyReference.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.GeneratedMSBuildEditorConfig.editorconfig
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.AssemblyInfoInputs.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.AssemblyInfo.cs
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.csproj.CoreCompileInputs.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/refint/Dimensions.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.pdb
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/Dimensions.genruntimeconfig.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/Dimensions/obj/Debug/net7.0/ref/Dimensions.dll

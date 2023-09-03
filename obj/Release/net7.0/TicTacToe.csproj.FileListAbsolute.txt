@@ -1,0 +1,15 @@
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/TicTacToe
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/TicTacToe.deps.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/TicTacToe.runtimeconfig.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/TicTacToe.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/TicTacToe.pdb
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.AssemblyInfo.cs
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/refint/TicTacToe.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.pdb
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/TicTacToe.genruntimeconfig.cache
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/obj/Release/net7.0/ref/TicTacToe.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnaGFqIQqmSsNA07wPICjkNp6OTKzuHC7csqR35lB9nlXFHKu4GctGtYK8fMWuS74lMdQ6HY6wbsQp/zhY23GA==",
+  "success": true,
+  "projectFilePath": "/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/home/sk/.nuget/packages/microsoft.netcore.app.runtime.win-x86/7.0.7/microsoft.netcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "/home/sk/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512",
+    "/home/sk/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/7.0.7/microsoft.aspnetcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "/home/sk/.nuget/packages/microsoft.netcore.app.host.win-x86/7.0.7/microsoft.netcore.app.host.win-x86.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

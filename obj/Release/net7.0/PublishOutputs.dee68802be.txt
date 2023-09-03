@@ -1,0 +1,5 @@
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/publish/TicTacToe
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/publish/TicTacToe.dll
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/publish/TicTacToe.deps.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/publish/TicTacToe.runtimeconfig.json
+/home/sk/RiderProjects/ConsoleApp1/module1-3/Dimensions/TicTacToe/bin/Release/net7.0/publish/TicTacToe.pdb
